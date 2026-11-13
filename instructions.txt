@@ -1,0 +1,73 @@
+Glovebox 1.0.0
+A PineLoader mod for Pionero Capital.
+In a vehicle it opens a glovebox, separate from the trunk.
+The contents stay saved.
+
+Author
+  EuroCent82
+  https://github.com/EuroCent82
+
+Site
+  https://pineloader.dev
+  https://pineloader.de
+
+Releases
+  PineLoader 1.0.1
+  https://github.com/EuroCent82/PineLoader/releases/latest
+
+  Glovebox 1.0.0
+  https://github.com/EuroCent82/Glovebox/releases/latest
+
+Install
+
+Install PineLoader first. Then install Glovebox.
+
+1. PineLoader
+
+   Download PineLoader 1.0.1:
+   https://github.com/EuroCent82/PineLoader/releases/latest
+
+   The file is PineLoader-1.0.1-win-x64.zip.
+   Unpack it into a folder named PineLoader next to the game.
+   For Pionero Capital the program then sits here:
+
+   Pionero Capital\PineLoader\PineLoader.exe
+
+   Close the game. Start PineLoader.exe once.
+   The loader saves the official game file as
+   PioneroCapital-Win64-Game.exe
+   and points PioneroCapital-Win64-Shipping.exe at itself.
+   Leave the Steam launch options empty.
+   Play in Steam starts PineLoader first.
+
+   The same guide is on the site, under Documentation.
+
+2. Glovebox
+
+   Download Glovebox 1.0.0:
+   https://github.com/EuroCent82/Glovebox/releases/latest
+
+   The file is Glovebox-1.0.0.zip.
+   Copy the Glovebox folder from that zip into:
+
+   Pionero Capital\PineLoader\Mods\
+
+   You then have these two files:
+
+   PineLoader\Mods\Glovebox\Glovebox.dll
+   PineLoader\Mods\Glovebox\glovebox-agent.jar
+
+   Start the game through PineLoader, or press Play in Steam.
+   The loader writes Config\Glovebox.ini when that file is missing.
+   The default key is K, from any seat.
+
+Save
+
+Saved items are in PineLoader\Cache\glovebox.json.
+Leave that file in place if you want to keep them.
+Each vehicle keeps its own number of slots.
+
+Game 0.4.7
+
+Pionero Capital 0.4.7, Steam build 26637959, renamed the server
+classes this build calls. On that build the glovebox does not open yet.
