@@ -36,7 +36,7 @@
   <a href="https://github.com/EuroCent82/Glovebox/releases/latest"><img alt="Download 1.0.0" src="https://img.shields.io/badge/download-1.0.0-D5B41A?style=flat-square"></a>
 </p>
 
-The loader is [PineLoader 1.0.1](https://github.com/EuroCent82/PineLoader/releases/latest). The same guide is on [PineLoader.dev](https://pineloader.dev) and [PineLoader.de](https://pineloader.de). This repository holds the Glovebox release. The pictures below are the German game. The labels follow the language of the game.
+The loader is [PineLoader 1.0.1](https://github.com/EuroCent82/PineLoader/releases/latest). The same guide is on [PineLoader.dev](https://pineloader.dev). This repository holds the Glovebox release. The pictures below are the German game. The labels follow the language of the game.
 
 ## The compartment
 
@@ -99,7 +99,7 @@ Pionero Capital 0.4.7, Steam build 26637959, renamed the server classes this bui
 
 ## Author
 
-EuroCent82. The site is [PineLoader.dev](https://pineloader.dev) and [PineLoader.de](https://pineloader.de). PineLoader is [release 1.0.1](https://github.com/EuroCent82/PineLoader/releases/latest). Glovebox is [release 1.0.0](https://github.com/EuroCent82/Glovebox/releases/latest).
+EuroCent82. The site is [PineLoader.dev](https://pineloader.dev). PineLoader is [release 1.0.1](https://github.com/EuroCent82/PineLoader/releases/latest). Glovebox is [release 1.0.0](https://github.com/EuroCent82/Glovebox/releases/latest).
 
 ## License
 

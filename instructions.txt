@@ -9,7 +9,6 @@ Author
 
 Site
   https://pineloader.dev
-  https://pineloader.de
 
 Releases
   PineLoader 1.0.1
