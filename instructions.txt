@@ -1,4 +1,4 @@
-Glovebox 1.0.0
+Glovebox 1.0.1
 A PineLoader mod for Pionero Capital.
 In a vehicle it opens a glovebox, separate from the trunk.
 The contents stay saved.
@@ -14,7 +14,7 @@ Releases
   PineLoader 1.0.1
   https://github.com/EuroCent82/PineLoader/releases/latest
 
-  Glovebox 1.0.0
+  Glovebox 1.0.1
   https://github.com/EuroCent82/Glovebox/releases/latest
 
 Install
@@ -43,10 +43,10 @@ Install PineLoader first. Then install Glovebox.
 
 2. Glovebox
 
-   Download Glovebox 1.0.0:
+   Download Glovebox 1.0.1:
    https://github.com/EuroCent82/Glovebox/releases/latest
 
-   The file is Glovebox-1.0.0.zip.
+   The file is Glovebox-1.0.1.zip.
    Copy the Glovebox folder from that zip into:
 
    Pionero Capital\PineLoader\Mods\
@@ -68,5 +68,6 @@ Each vehicle keeps its own number of slots.
 
 Game 0.4.7
 
-Pionero Capital 0.4.7, Steam build 26637959, renamed the server
-classes this build calls. On that build the glovebox does not open yet.
+Pionero Capital 0.4.7, Steam build 26637959, uses different server
+class names than the build before it. This release calls those names.
+The compartment opens on that build, with or without the Mod Manager.

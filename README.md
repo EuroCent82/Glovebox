@@ -3,6 +3,8 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/EuroCent82/Glovebox">GitHub</a>
+  &nbsp;·&nbsp;
   <a href="#the-compartment">The compartment</a>
   &nbsp;·&nbsp;
   <a href="#mod-manager">Mod Manager</a>
@@ -27,13 +29,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/EuroCent82/Glovebox"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-EuroCent82%2FGlovebox-245C48?style=flat-square"></a>
   <a href="LICENSE"><img alt="Apache License 2.0" src="https://img.shields.io/badge/license-Apache%202.0-D5B41A?style=flat-square"></a>
   <a href="https://github.com/EuroCent82/PineLoader/releases/latest"><img alt="PineLoader 1.0.1" src="https://img.shields.io/badge/PineLoader-1.0.1-04221a?style=flat-square"></a>
-  <img alt="Version 1.0.0" src="https://img.shields.io/badge/version-1.0.0-245C48?style=flat-square">
+  <img alt="Version 1.0.1" src="https://img.shields.io/badge/version-1.0.1-245C48?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="https://github.com/EuroCent82/Glovebox/releases/latest"><img alt="Download 1.0.0" src="https://img.shields.io/badge/download-1.0.0-D5B41A?style=flat-square"></a>
+  <a href="https://github.com/EuroCent82/Glovebox/releases/latest"><img alt="Download 1.0.1" src="https://img.shields.io/badge/download-1.0.1-D5B41A?style=flat-square"></a>
 </p>
 
 The loader is [PineLoader 1.0.1](https://github.com/EuroCent82/PineLoader/releases/latest). The same guide is on [PineLoader.dev](https://pineloader.dev). This repository holds the Glovebox release. The pictures below are the German game. The labels follow the language of the game.
@@ -48,19 +51,13 @@ K opens the glovebox from any seat. The upper row is the compartment. The lower 
 
 ## Mod Manager
 
-The row is named in the game's language. In German it reads Handschuhfach. An turns it on, Aus turns it off. Turning it off leaves the saved items where they are.
+The Mod Manager is optional. Without it, the compartment still opens from the key and from `Config\Glovebox.ini`.
 
-<p align="center">
-  <img src="screenshot/mod-manager.png" alt="Handschuhfach switched on in the Mod Manager" width="770">
-</p>
+With the Mod Manager, the game settings gain a tab after Keyboard. The row is named in the game's language. In German it reads Handschuhfach. On and off use the same bar as VSync. Turning it off leaves the saved items where they are.
 
 ## Key
 
-The gear on that row opens the key page. The key is captured the same way as on the keyboard tab. The default is K. Close and Apply use the game's own words.
-
-<p align="center">
-  <img src="screenshot/taste.png" alt="The glovebox key page, set to K" width="422">
-</p>
+The key is the row under that switch. It uses the game's own key button. The default is K.
 
 ## The loader
 
@@ -83,7 +80,7 @@ Install PineLoader first, then Glovebox. The same steps are in [instructions.txt
 
 ### Glovebox
 
-1. Download [Glovebox 1.0.0](https://github.com/EuroCent82/Glovebox/releases/latest). The file is `Glovebox-1.0.0.zip`.
+1. Download [Glovebox 1.0.1](https://github.com/EuroCent82/Glovebox/releases/latest). The file is `Glovebox-1.0.1.zip`.
 2. Copy the `Glovebox` folder from that zip into `PineLoader\Mods`. The two files are `Glovebox.dll` and `glovebox-agent.jar`.
 3. Start the game through PineLoader. The loader writes `Config\Glovebox.ini` when that file is missing.
 
@@ -95,11 +92,11 @@ Saved items are in `PineLoader\Cache\glovebox.json`. Leave that file in place if
 
 ## Game 0.4.7
 
-Pionero Capital 0.4.7, Steam build 26637959, renamed the server classes this build calls. On that build the glovebox does not open yet.
+Pionero Capital 0.4.7, Steam build 26637959, uses different server class names than the build before it. This release calls those names. The compartment opens on that build, with or without the Mod Manager.
 
 ## Author
 
-EuroCent82. The site is [PineLoader.dev](https://pineloader.dev). PineLoader is [release 1.0.1](https://github.com/EuroCent82/PineLoader/releases/latest). Glovebox is [release 1.0.0](https://github.com/EuroCent82/Glovebox/releases/latest).
+EuroCent82. The site is [PineLoader.dev](https://pineloader.dev). PineLoader is [release 1.0.1](https://github.com/EuroCent82/PineLoader/releases/latest). Glovebox is [release 1.0.1](https://github.com/EuroCent82/Glovebox/releases/latest).
 
 ## License
 
