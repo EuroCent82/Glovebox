@@ -17,6 +17,8 @@
   &nbsp;·&nbsp;
   <a href="#save">Save</a>
   &nbsp;·&nbsp;
+  <a href="#the-seller">The seller</a>
+  &nbsp;·&nbsp;
   <a href="#game-047">Game 0.4.7</a>
   &nbsp;·&nbsp;
   <a href="#author">Author</a>
@@ -89,6 +91,14 @@ The default key is K, from any seat.
 ## Save
 
 Saved items are in `PineLoader\Cache\glovebox.json`. Leave that file in place if you want to keep them. Each vehicle keeps its own number of slots.
+
+## The seller
+
+At the seller, the vehicle card shows the places that belong to that vehicle. On the Royale the trunk line reads 6 places. The glovebox is not that line. Its own number of places stays with the vehicle in the save.
+
+<p align="center">
+  <img src="screenshot/dealer.png" alt="The Royale at the seller. The card lists a trunk of 6 places." width="420">
+</p>
 
 ## Game 0.4.7
 
