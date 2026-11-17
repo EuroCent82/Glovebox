@@ -1,16 +1,21 @@
-Glovebox 1.0.2
-2026-11-17
-
-Open names the character. Without a character the compartment stays closed.
+[b]Glovebox 1.0.2[/b]
+[b]Öffnen[/b] nennt die Figur.
+Ohne Figur bleibt das Fach zu.
+Der Tastaturhaken hängt nur, solange das Spielfenster vorn ist.
+Der Haken liest die INI nicht selbst.
+Taste und Schalter werden neben dem Haken etwa einmal je Sekunde neu gelesen.
+[code]glovebox-kopie.cmd[/code] schreibt eine Kopie neben die Speicherdatei und lässt [code]Cache\glovebox.json[/code] liegen.
+[code]glovebox-kopie.cmd zurueck[/code] holt diese Datei zurück und ändert die Speicherdatei nicht.
+Braucht [b]PineLoader 1.0.4[/b].
+[b]Open[/b] names the character.
+Without a character the compartment stays closed.
 The key hook is installed only while the game window is in front.
-The hook itself does not read the ini. The key and the switch refresh about once a second beside the hook.
-glovebox-kopie.cmd writes a copy next to the save file and leaves Cache\glovebox.json where it is.
-glovebox-kopie.cmd zurueck copies that file back. It does not change the save file.
+The hook itself does not read the ini.
+The key and the switch refresh about once a second beside the hook.
+[code]glovebox-kopie.cmd[/code] writes a copy next to the save file and leaves [code]Cache\glovebox.json[/code] where it is.
+[code]glovebox-kopie.cmd zurueck[/code] copies that file back and does not change the save file.
+Needs [b]PineLoader 1.0.4[/b].
 
-Needs PineLoader 1.0.4.
-The zip is Glovebox-1.0.2.zip.
-Copy the Glovebox folder into PineLoader\Mods\.
-
-1.0.1
-
-The compartment opens on Pionero Capital 0.4.7.
+[b]1.0.1[/b]
+Das Fach öffnet sich in [b]Pionero Capital 0.4.7[/b].
+The compartment opens on [b]Pionero Capital 0.4.7[/b].
