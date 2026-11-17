@@ -1,0 +1,16 @@
+Glovebox 1.0.2
+2026-11-17
+
+Open names the character. Without a character the compartment stays closed.
+The key hook is installed only while the game window is in front.
+The hook itself does not read the ini. The key and the switch refresh about once a second beside the hook.
+glovebox-kopie.cmd writes a copy next to the save file and leaves Cache\glovebox.json where it is.
+glovebox-kopie.cmd zurueck copies that file back. It does not change the save file.
+
+Needs PineLoader 1.0.4.
+The zip is Glovebox-1.0.2.zip.
+Copy the Glovebox folder into PineLoader\Mods\.
+
+1.0.1
+
+The compartment opens on Pionero Capital 0.4.7.
