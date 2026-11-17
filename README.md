@@ -111,5 +111,3 @@ EuroCent82. The site is [PineLoader.dev](https://pineloader.dev). PineLoader is 
 ## License
 
 Apache License 2.0. The full text is in [LICENSE](LICENSE).
-
-The Nexus Mods header is [screenshot/banner-nexusmods.png](screenshot/banner-nexusmods.png), 1300 by 372.
