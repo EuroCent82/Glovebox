@@ -1,0 +1,27 @@
+Developer note - Unofficial community mods
+
+The mods and links in this thread are shared by their creator. We don’t review or test these files and can’t verify their safety or compatibility. Any Discord server linked here is run independently from the studio.
+
+Back up your saves before installing any mods. Mods can corrupt your save files or prevent the game from launching, even if they worked before a game update. We can’t recover corrupted saves or fix issues caused by mods.
+
+**Glovebox** adds a glovebox in a vehicle, separate from the trunk. The contents stay saved. It is a PineLoader mod for **Pionero Capital**.
+
+**1.0.3** needs **PineLoader 1.1.0-alpha**. The compartment opens on Pionero Capital **0.4.7**, Steam build 26637959.
+
+**K** opens it from any seat, while the game window is in front. The upper row is the compartment. The lower row is what you are carrying. Without a character, it stays closed. The key and the switch refresh about once a second.
+
+Saved items are in `PineLoader\Cache\glovebox.json`. Leave that file if you want to keep them. Each vehicle keeps its own slots. The glovebox is not the trunk line on the seller card.
+
+Mod Manager is optional. Without it, the key and `Config\Glovebox.ini` still work. The default key is K.
+
+**Install**
+Install PineLoader first and close the game. Copy the `Glovebox` folder into `PineLoader\Mods`. It needs `Glovebox.dll` and `glovebox-agent.jar`.
+
+**Download**
+https://github.com/EuroCent82/Glovebox/releases/download/v1.0.3/Glovebox-1.0.3.zip
+**Repository**
+https://github.com/EuroCent82/Glovebox
+**Issues**
+https://github.com/EuroCent82/Glovebox/issues
+
+**EuroCent**

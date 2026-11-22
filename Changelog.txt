@@ -1,3 +1,9 @@
+[b]Glovebox 1.0.3[/b]
+[b]Speichern[/b] von [code]glovebox.json[/code] läuft asynchron und entprellt. Spieler-Identifikation stabilisiert, Maus-Hook optimiert und Spielbindungen an die aktuelle Spielversion angepasst.
+[b]Saving[/b] of [code]glovebox.json[/code] is asynchronous and debounced. Player identification stabilized, mouse hook optimized, and game bindings updated for the current game version.
+Braucht [b]PineLoader 1.1.0-alpha[/b].
+Needs [b]PineLoader 1.1.0-alpha[/b].
+
 [b]Glovebox 1.0.2[/b]
 [b]Öffnen[/b] nennt die Figur.
 Ohne Figur bleibt das Fach zu.
