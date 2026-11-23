@@ -33,15 +33,15 @@
 <p align="center">
   <a href="https://github.com/EuroCent82/Glovebox"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-EuroCent82%2FGlovebox-245C48?style=flat-square"></a>
   <a href="LICENSE"><img alt="Apache License 2.0" src="https://img.shields.io/badge/license-Apache%202.0-D5B41A?style=flat-square"></a>
-  <a href="https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha"><img alt="PineLoader 1.1.0-alpha" src="https://img.shields.io/badge/PineLoader-1.1.0--alpha-04221a?style=flat-square"></a>
+  <a href="https://github.com/EuroCent82/PineLoader/releases/latest"><img alt="PineLoader 1.0.4" src="https://img.shields.io/badge/PineLoader-1.0.4-04221a?style=flat-square"></a>
   <img alt="Version 1.0.3" src="https://img.shields.io/badge/version-1.0.3-245C48?style=flat-square">
 </p>
 
 <p align="center">
-  <a href="https://github.com/EuroCent82/Glovebox/releases/tag/v1.0.3"><img alt="Download 1.0.3" src="https://img.shields.io/badge/download-1.0.3-D5B41A?style=flat-square"></a>
+  <a href="https://github.com/EuroCent82/Glovebox/releases/latest"><img alt="Download 1.0.3" src="https://img.shields.io/badge/download-1.0.3-D5B41A?style=flat-square"></a>
 </p>
 
-The loader is [PineLoader 1.1.0-alpha](https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha). The same guide is on [PineLoader.dev](https://pineloader.dev). This repository holds the Glovebox release. The pictures below are the German game. The labels follow the language of the game.
+The loader is [PineLoader 1.0.4](https://github.com/EuroCent82/PineLoader/releases/latest). The same guide is on [PineLoader.dev](https://pineloader.dev). This repository holds the Glovebox release. The pictures below are the German game. The labels follow the language of the game.
 
 ## The compartment
 
@@ -75,14 +75,14 @@ Install PineLoader first, then Glovebox. The same steps are in [instructions.txt
 
 ### PineLoader
 
-1. Download [PineLoader 1.1.0-alpha](https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha). The file is `PineLoader-1.1.0-alpha-win-x64.zip`.
+1. Download [PineLoader 1.0.4](https://github.com/EuroCent82/PineLoader/releases/latest). The file is `PineLoader-1.0.4-win-x64.zip`.
 2. Unpack it into a folder named `PineLoader` next to the game, so the program is `Pionero Capital\PineLoader\PineLoader.exe`.
 3. Close the game and start `PineLoader.exe` once. The loader saves the official file as `PioneroCapital-Win64-Game.exe` and points `PioneroCapital-Win64-Shipping.exe` at itself.
 4. Leave the Steam launch options empty. **Play** in Steam starts PineLoader first.
 
 ### Glovebox
 
-1. Download [Glovebox 1.0.3](https://github.com/EuroCent82/Glovebox/releases/tag/v1.0.3). The file is `Glovebox-1.0.3.zip`.
+1. Download [Glovebox 1.0.3](https://github.com/EuroCent82/Glovebox/releases/latest). The file is `Glovebox-1.0.3.zip`.
 2. Copy the `Glovebox` folder from that zip into `PineLoader\Mods`. The two files are `Glovebox.dll` and `glovebox-agent.jar`.
 3. Start the game through PineLoader. The loader writes `Config\Glovebox.ini` when that file is missing.
 
@@ -106,7 +106,7 @@ Pionero Capital 0.4.7, Steam build 26637959, uses different server class names t
 
 ## Author
 
-EuroCent82. The site is [PineLoader.dev](https://pineloader.dev). PineLoader is [release 1.1.0-alpha](https://github.com/EuroCent82/PineLoader/releases/tag/v1.1.0-alpha). Glovebox is [release 1.0.3](https://github.com/EuroCent82/Glovebox/releases/tag/v1.0.3).
+EuroCent82. The site is [PineLoader.dev](https://pineloader.dev). PineLoader is [release 1.0.4](https://github.com/EuroCent82/PineLoader/releases/latest). Glovebox is [release 1.0.3](https://github.com/EuroCent82/Glovebox/releases/latest).
 
 ## License
 
